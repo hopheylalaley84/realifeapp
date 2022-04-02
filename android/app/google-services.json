@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "232403380446",
+    "project_id": "realife-c83b1",
+    "storage_bucket": "realife-c83b1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:232403380446:android:cbd913e76b80ba1dbe7a4f",
+        "android_client_info": {
+          "package_name": "com.onlineproject.realifeapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "232403380446-akvsp13deh4jvavi8ea5fqjmmvhmj8dc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.onlineproject.realifeapp",
+            "certificate_hash": "e779b12a92701468f23dbcd567753fdef6c73183"
+          }
+        },
+        {
+          "client_id": "232403380446-imu5tol2la2v9ij7i2dgl3ive5808h8j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzKL_Rmxj5ExWCmfTj33Ux7lHFqquMD0A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "232403380446-imu5tol2la2v9ij7i2dgl3ive5808h8j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
